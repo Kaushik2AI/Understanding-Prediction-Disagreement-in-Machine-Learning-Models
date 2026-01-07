@@ -1,4 +1,4 @@
-![Understanding Prediction Disagreement](plots/gemimi.png)
+![Understanding Prediction Disagreement](plots/gemini.png)
 
 # Understanding Prediction Disagreement in Machine Learning Models
 
